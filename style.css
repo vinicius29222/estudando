@@ -1,17 +1,17 @@
-body {
-	
-}
-
 #banner {
-	width:	100%;
+	width:100%;
 }
 
 .principal{
-	background: #cccccc
-
+	background: #cccccc;
+	padding: 20px;
 }
 
-h1 {
+.titulo-principal {
+	padding-left: 30px;
+}
+
+.titulo-centralizado {
 	text-align: center
 }
 
@@ -33,15 +33,14 @@ em strong {
 
 .beneficios {
 	background: #ffffff;
-}
-
-h2 {
-	text-align: center;
+	padding: 20px;
 }
 
 ul {
 	display: inline-block;
 	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
 .imagembeneficios {
