@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-	width:100%;
+	width:	100%;
 }
 
 .principal{
@@ -12,15 +12,15 @@ body {
 }
 
 h1 {
-	style="text-align: center"
+	text-align: center
 }
 
 p {
-	text-align: center;
+	text-align: center
 }
 
 #missao {
-	style="font-size: 20px"
+	font-size: 20px
 }
 
 em strong {
@@ -32,9 +32,18 @@ em strong {
 }
 
 .beneficios {
-	background: #ff0000;
+	background: #ffffff;
 }
 
 h2 {
 	text-align: center;
 }
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.imagembeneficios {
+	width: 50%;
+} 
